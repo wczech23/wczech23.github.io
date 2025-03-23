@@ -13,4 +13,6 @@ While looking at different NBA statistics, I wanted to know which organizations 
 [Link to code/repository](https://github.com/wczech23/nba_data_project)
 
 ### Job Description Keyword Analyzer
+Applying for jobs had become a difficult process for me because there were hundreds of applicants for each posting and I was having a hard time getting past the applicant tracking systems that analyzed my resume. To help improve my odds of getting past the tracker, I wanted to create a system that gathered many job applications given a keyword search and analyze the relevance of words within the job descriptions to find out which words I should include in my resume. To do this, I web scraped 1000s of Wikipedia pages to build a word frequency model that represented the rarity of English words. After creating this model, I used the Adzuna job application API to gather job descriptions based on the search for a specific role and compare the text with my model to find the most relevant words. After completing this project, I was able to search a role such as "Data Analyst" and find the most relevant keywords to add to my resume if I wanted to apply for a similar position.
 
+[Link to code/repository](https://github.com/wczech23/keywordanalyzer)
