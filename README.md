@@ -1,2 +1,7 @@
-# wczech23.github.io
-wczech23.github.io
+# Data Analytics Portfolio
+
+### Project 1
+- NBA Data Analytics Project
+
+### Project 2
+- Job Description Keyword Analyzer
