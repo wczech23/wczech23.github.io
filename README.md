@@ -19,7 +19,7 @@ Wins per $1 Million:
 Dollars Spent per Regular Season Win:
 - Finds the average ratio of regular season wins to player salary for each NBA team.
 
-These statistics can be viewed on a Tableau dashboard[here](https://public.tableau.com/app/profile/william.czech/viz/nba_team_analytics_proj/Dashboard2).
+These statistics can be viewed on a Tableau dashboard [here](https://public.tableau.com/app/profile/william.czech/viz/nba_team_analytics_proj/Dashboard2).
 
 [Link to code/repository](https://github.com/wczech23/nba_data_project)
 
