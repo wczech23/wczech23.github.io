@@ -21,6 +21,10 @@ Dollars Spent per Regular Season Win:
 
 These statistics can be viewed on a Tableau dashboard [here](https://public.tableau.com/app/profile/william.czech/viz/nba_team_analytics_proj/Dashboard2).
 
+Results
+
+Using this visualization, I found that teams such as the Golden State Warriors have exceptionally high coaching efficiency and the Oklahoma City Thunder spend their money most effectively in regards to player win share and regular season wins.
+
 [Link to code/repository](https://github.com/wczech23/nba_data_project)
 
 ### Job Description Keyword Analyzer - (Python)
