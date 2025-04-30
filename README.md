@@ -17,15 +17,15 @@ Wins per $1 Million:
 - Measures the ratio of win shares to total salary for a players career with a team. I used the average of this metric for each player in an organization.
 
 Dollars Spent per Regular Season Win:
-- Finds the average ratio of regular season wins to player salary for each NBA team.
-
-Results
+- Measures ratio of regular season wins to player salary for each NBA team.
 
 Using [this](https://public.tableau.com/app/profile/william.czech/viz/nba_team_analytics_proj/Dashboard2) visualization I created in Tableau, I found that teams such as the Golden State Warriors have exceptionally high coaching efficiency and the Oklahoma City Thunder spend their money most effectively in regards to player win share and regular season wins.
 
 [Link to code/repository](https://github.com/wczech23/nba_data_project)
 
 ### Job Description Keyword Analyzer - (Python)
-While applying for jobs, I was interested in how I could improve my performance with the applicant tracking systems (ATS) that analyzed my resume. To improve the scoring my resume earned from this system, I wanted to create an app that gathered 100s of job applications for any job title and analyzed the relevance of words within the job descriptions to understand which words were most valuable to include in my resume. I first web scraped 1000s of Wikipedia pages to gather enough text to build a word frequency model. After applying Python natural language processing libraries to create this model, I used the Adzuna job application API to gather job descriptions based on the search for a specific job title. Using the model and description data, I was able to find the most relevant keywords to add to my resume to make my applications more appealing to the applicant tracking system.
+While applying for jobs, I was interested in how I could improve my performance with the applicant tracking systems (ATS) that analyzed my resume. To improve the scoring my resume earned from this system, I wanted to create an app that gathered 100s of job applications for any job title and analyzed the relevance of words within the job descriptions to understand which words were most valuable to include in my resume. I first web scraped 1000s of Wikipedia pages to gather enough text to build a word frequency model. After applying Python natural language processing libraries to create this model, I used the Adzuna job application API to gather job descriptions based on the search for a specific job title. 
+
+Using the model and description data, I was able to find the most relevant keywords to add to my resume to make my applications more appealing to the applicant tracking system.
 
 [Link to code/repository](https://github.com/wczech23/keywordanalyzer)
